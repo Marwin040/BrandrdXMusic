@@ -68,10 +68,10 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Marwin_04"
+                text="♡︎ 𝑶𝒘𝒏𝒆𝒓 🖇️", url=f"https://t.me/Marwin_04"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/Team_Supporty"
+                text="♡︎ 𝑪𝒉𝒂𝒕 🖇️", url=f"https://t.me/Team_Supporty"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Marwin_04"
+                text="♡︎ 𝑶𝒘𝒏𝒆𝒓 🖇️", url=f"https://t.me/Marwin_04"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/Team_Supporty"
+                text="♡︎ 𝑪𝒉𝒂𝒕 🖇️", url=f"https://t.me/Team_Supporty"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -245,10 +245,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Marwin_04"
+                text="♡︎ 𝑶𝒘𝒏𝒆𝒓 🖇️", url=f"https://t.me/Marwin_04"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/Team_Supporty"
+                text="♡︎ 𝑪𝒉𝒂𝒕 🖇️", url=f"https://t.me/Team_Supporty"
             ),
         ],
 
